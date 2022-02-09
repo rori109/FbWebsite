@@ -1,5 +1,5 @@
 the website was built as an independant project to show my college lecturer. IT IS UNFINISHED!
-it focuses on reading, writing and displaying data from a real time database.
+it focuses on reading, writing and displaying data from a real time database, google firebase.
 notable functions in website:
 1) upload data to google firebase
 2) read data from google firebase in real time (updates if you change any data)
